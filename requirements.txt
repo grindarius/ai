@@ -1,0 +1,11 @@
+pandas
+numpy
+ipykernel
+notebook
+scikit-learn
+scikit-optimize
+category_encoders
+ciso8601
+autopep8
+matplotlib
+graphviz

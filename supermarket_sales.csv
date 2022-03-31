@@ -1,0 +1,1001 @@
+Branch,City,Customer type,Gender,Health and beauty,Electronic accessories,Home and lifestyle,Sports and travel,Food and beverages,Fashion accessories,Unit price,Quantity,Tax 5%,Total,Payment,cogs,Rating
+A,Yangon,Member,Female,Yes,No,No,No,No,No,32,7,13,237,Ewallet,224,high
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,64,5,15,335,Cash,320,high
+A,Yangon,Normal,Male,No,No,Yes,No,No,No,60,7,17,437,Credit card,420,medium
+A,Yangon,Member,Male,Yes,No,No,No,No,No,70,8,18,578,Ewallet,560,high
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,35,7,13,258,Ewallet,245,medium
+C,Naypyitaw,Normal,Male,No,Yes,No,No,No,No,72,7,20,524,Ewallet,504,low
+A,Yangon,Member,Female,No,Yes,No,No,No,No,25,6,14,164,Ewallet,150,medium
+C,Naypyitaw,Normal,Female,No,No,Yes,No,No,No,58,10,11,591,Ewallet,580,high
+A,Yangon,Member,Female,Yes,No,No,No,No,No,90,2,19,199,Credit card,180,medium
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,77,3,14,245,Credit card,231,medium
+B,Mandalay,Member,Female,No,No,No,No,No,Yes,15,4,18,78,Ewallet,60,medium
+B,Mandalay,Member,Male,No,Yes,No,No,No,No,11,4,15,59,Cash,44,medium
+A,Yangon,Normal,Female,No,Yes,No,No,No,No,51,5,20,275,Ewallet,255,medium
+A,Yangon,Normal,Male,No,No,No,No,Yes,No,71,10,18,728,Ewallet,710,high
+A,Yangon,Normal,Female,Yes,No,No,No,No,No,30,10,20,320,Cash,300,medium
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,41,6,10,256,Cash,246,medium
+A,Yangon,Member,Female,Yes,No,No,No,No,No,56,7,13,405,Credit card,392,medium
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,21,6,18,144,Credit card,126,medium
+A,Yangon,Normal,Male,No,No,No,No,Yes,No,32,3,17,113,Credit card,96,high
+B,Mandalay,Normal,Female,No,No,Yes,No,No,No,75,2,12,162,Ewallet,150,low
+C,Naypyitaw,Member,Male,No,Yes,No,No,No,No,54,5,11,281,Ewallet,270,medium
+B,Mandalay,Normal,Male,Yes,No,No,No,No,No,28,3,18,102,Ewallet,84,medium
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,13,2,15,41,Credit card,26,low
+A,Yangon,Normal,Male,No,Yes,No,No,No,No,54,5,20,290,Ewallet,270,high
+A,Yangon,Member,Male,No,No,No,Yes,No,No,12,3,11,47,Ewallet,36,medium
+A,Yangon,Member,Female,No,No,Yes,No,No,No,42,8,17,353,Credit card,336,high
+B,Mandalay,Normal,Male,No,No,No,No,No,Yes,25,1,18,43,Cash,25,medium
+A,Yangon,Normal,Female,No,No,No,No,No,Yes,28,2,16,72,Credit card,56,high
+B,Mandalay,Normal,Female,No,No,No,No,Yes,No,10,5,18,68,Cash,50,high
+A,Yangon,Normal,Male,Yes,No,No,No,No,No,74,9,13,679,Cash,666,medium
+B,Mandalay,Normal,Male,No,No,No,No,No,Yes,82,5,15,425,Credit card,410,medium
+B,Mandalay,Member,Male,No,No,No,Yes,No,No,24,9,18,234,Cash,216,medium
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,68,8,17,561,Cash,544,medium
+A,Yangon,Normal,Male,Yes,No,No,No,No,No,84,2,20,188,Credit card,168,medium
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,80,4,19,339,Ewallet,320,high
+C,Naypyitaw,Member,Female,No,No,No,Yes,No,No,69,1,11,80,Ewallet,69,medium
+A,Yangon,Member,Male,No,No,No,Yes,No,No,45,5,18,243,Ewallet,225,medium
+A,Yangon,Normal,Female,No,Yes,No,No,No,No,36,9,17,341,Ewallet,324,medium
+C,Naypyitaw,Normal,Female,Yes,No,No,No,No,No,56,8,13,461,Ewallet,448,high
+B,Mandalay,Member,Male,No,No,Yes,No,No,No,39,8,12,324,Cash,312,high
+B,Mandalay,Member,Female,No,No,Yes,No,No,No,64,1,13,77,Ewallet,64,high
+C,Naypyitaw,Member,Male,No,No,Yes,No,No,No,55,2,13,123,Cash,110,medium
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,25,6,18,168,Cash,150,medium
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,35,8,16,296,Cash,280,high
+C,Naypyitaw,Member,Male,Yes,No,No,No,No,No,55,2,12,122,Cash,110,medium
+B,Mandalay,Member,Female,No,Yes,No,No,No,No,88,4,19,371,Cash,352,high
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,88,9,12,804,Credit card,792,high
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,28,9,16,268,Ewallet,252,low
+B,Mandalay,Member,Male,No,Yes,No,No,No,No,77,6,15,477,Credit card,462,high
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,31,10,20,330,Ewallet,310,high
+C,Naypyitaw,Member,Male,No,No,No,No,Yes,No,56,7,15,407,Cash,392,high
+A,Yangon,Member,Female,No,No,No,No,Yes,No,77,5,18,403,Cash,385,high
+B,Mandalay,Member,Female,No,No,No,No,No,Yes,56,4,17,241,Ewallet,224,medium
+C,Naypyitaw,Member,Male,No,No,No,No,No,Yes,60,1,14,74,Credit card,60,medium
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,77,2,17,171,Ewallet,154,medium
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,50,8,19,419,Cash,400,high
+A,Yangon,Member,Male,No,No,Yes,No,No,No,13,2,11,37,Cash,26,medium
+A,Yangon,Normal,Male,Yes,No,No,No,No,No,49,8,12,404,Ewallet,392,medium
+A,Yangon,Member,Female,No,No,Yes,No,No,No,32,10,20,340,Cash,320,medium
+C,Naypyitaw,Normal,Male,No,Yes,No,No,No,No,83,6,14,512,Cash,498,high
+C,Naypyitaw,Member,Female,No,No,No,Yes,No,No,68,3,14,218,Credit card,204,high
+C,Naypyitaw,Normal,Male,No,No,Yes,No,No,No,89,6,14,548,Ewallet,534,medium
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,46,9,17,431,Ewallet,414,high
+A,Yangon,Member,Male,No,No,No,Yes,No,No,78,10,20,800,Credit card,780,high
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,21,4,17,101,Cash,84,high
+A,Yangon,Member,Male,Yes,No,No,No,No,No,25,10,18,268,Cash,250,medium
+C,Naypyitaw,Normal,Female,Yes,No,No,No,No,No,82,2,17,181,Ewallet,164,medium
+B,Mandalay,Member,Female,No,No,No,No,No,Yes,16,6,16,112,Ewallet,96,high
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,80,10,14,814,Cash,800,medium
+A,Yangon,Member,Female,Yes,No,No,No,No,No,35,1,10,45,Cash,35,low
+C,Naypyitaw,Normal,Male,No,No,No,No,Yes,No,78,10,15,795,Credit card,780,high
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,60,10,20,620,Cash,600,medium
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,88,3,13,277,Ewallet,264,low
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,79,6,18,492,Cash,474,high
+A,Yangon,Normal,Male,No,No,Yes,No,No,No,74,9,10,676,Ewallet,666,high
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,54,10,19,559,Credit card,540,medium
+C,Naypyitaw,Member,Male,No,No,No,No,No,Yes,82,9,15,753,Credit card,738,high
+A,Yangon,Member,Female,No,No,No,No,No,Yes,49,9,10,451,Credit card,441,medium
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,13,10,19,149,Ewallet,130,medium
+C,Naypyitaw,Normal,Female,Yes,No,No,No,No,No,79,5,12,407,Cash,395,medium
+C,Naypyitaw,Normal,Female,Yes,No,No,No,No,No,34,6,14,218,Credit card,204,medium
+B,Mandalay,Normal,Female,No,No,No,No,Yes,No,76,3,12,240,Ewallet,228,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,Yes,No,24,8,19,211,Ewallet,192,medium
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,25,4,14,114,Credit card,100,high
+C,Naypyitaw,Member,Male,No,No,No,Yes,No,No,71,5,12,367,Cash,355,medium
+C,Naypyitaw,Normal,Female,No,No,No,Yes,No,No,54,7,12,390,Ewallet,378,low
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,50,5,19,269,Cash,250,high
+A,Yangon,Member,Male,No,No,No,No,Yes,No,87,7,18,627,Credit card,609,medium
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,72,1,12,84,Cash,72,medium
+B,Mandalay,Normal,Female,Yes,No,No,No,No,No,77,6,12,474,Cash,462,medium
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,21,4,18,102,Cash,84,medium
+C,Naypyitaw,Normal,Female,No,No,No,Yes,No,No,40,10,16,416,Ewallet,400,high
+A,Yangon,Member,Female,No,No,No,Yes,No,No,17,7,19,138,Ewallet,119,medium
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,75,9,19,694,Credit card,675,high
+C,Naypyitaw,Normal,Male,Yes,No,No,No,No,No,30,1,19,49,Credit card,30,medium
+A,Yangon,Normal,Male,No,Yes,No,No,No,No,58,1,11,69,Ewallet,58,medium
+B,Mandalay,Normal,Male,Yes,No,No,No,No,No,57,10,17,587,Ewallet,570,medium
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,31,6,19,205,Cash,186,low
+A,Yangon,Normal,Male,No,No,No,No,Yes,No,56,3,15,183,Ewallet,168,high
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,38,6,14,242,Cash,228,medium
+C,Naypyitaw,Member,Male,No,No,No,No,No,Yes,76,1,20,96,Cash,76,low
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,78,9,20,722,Cash,702,medium
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,31,9,19,298,Cash,279,medium
+A,Yangon,Normal,Male,No,No,No,No,Yes,No,38,6,18,246,Cash,228,high
+B,Mandalay,Normal,Male,Yes,No,No,No,No,No,76,7,15,547,Cash,532,high
+A,Yangon,Member,Male,No,Yes,No,No,No,No,89,10,16,906,Ewallet,890,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,83,6,15,513,Credit card,498,high
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,86,6,16,532,Cash,516,medium
+C,Naypyitaw,Normal,Female,No,No,No,No,Yes,No,87,9,15,798,Cash,783,low
+C,Naypyitaw,Member,Male,No,Yes,No,No,No,No,84,10,18,858,Cash,840,high
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,89,2,19,197,Ewallet,178,medium
+C,Naypyitaw,Member,Female,Yes,No,No,No,No,No,20,3,14,74,Credit card,60,high
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,68,7,17,493,Cash,476,high
+A,Yangon,Member,Male,No,No,Yes,No,No,No,46,9,20,434,Ewallet,414,low
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,59,9,19,550,Credit card,531,high
+C,Naypyitaw,Normal,Female,No,No,No,No,No,Yes,63,3,19,208,Credit card,189,medium
+B,Mandalay,Member,Male,No,No,No,No,No,Yes,13,5,11,76,Ewallet,65,medium
+B,Mandalay,Member,Male,No,No,No,No,No,Yes,11,1,19,30,Ewallet,11,medium
+A,Yangon,Normal,Female,No,No,No,No,Yes,No,60,10,16,616,Ewallet,600,medium
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,60,2,16,136,Ewallet,120,low
+A,Yangon,Normal,Female,No,Yes,No,No,No,No,26,8,11,219,Credit card,208,medium
+C,Naypyitaw,Member,Male,No,No,No,Yes,No,No,44,7,20,328,Credit card,308,medium
+B,Mandalay,Member,Male,No,No,No,Yes,No,No,14,9,16,142,Credit card,126,low
+C,Naypyitaw,Member,Male,No,No,Yes,No,No,No,20,8,18,178,Credit card,160,medium
+B,Mandalay,Member,Female,No,No,No,No,No,Yes,68,8,19,563,Ewallet,544,medium
+A,Yangon,Normal,Female,No,No,Yes,No,No,No,41,7,17,304,Credit card,287,medium
+A,Yangon,Normal,Female,No,No,No,Yes,No,No,40,5,20,220,Cash,200,high
+C,Naypyitaw,Normal,Female,No,No,No,No,No,Yes,90,9,12,822,Credit card,810,medium
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,73,8,14,598,Ewallet,584,high
+B,Mandalay,Normal,Female,No,No,No,Yes,No,No,53,9,14,491,Ewallet,477,medium
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,69,7,15,498,Cash,483,high
+A,Yangon,Member,Female,No,No,No,Yes,No,No,80,6,13,493,Cash,480,high
+B,Mandalay,Normal,Female,No,No,No,Yes,No,No,63,4,18,270,Cash,252,medium
+B,Mandalay,Member,Male,No,Yes,No,No,No,No,66,6,11,407,Credit card,396,high
+C,Naypyitaw,Normal,Female,Yes,No,No,No,No,No,39,6,18,252,Ewallet,234,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,47,3,15,156,Cash,141,medium
+A,Yangon,Normal,Female,No,Yes,No,No,No,No,70,5,15,365,Credit card,350,high
+A,Yangon,Member,Female,No,No,Yes,No,No,No,20,6,10,130,Cash,120,high
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,36,10,12,372,Cash,360,high
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,26,8,13,221,Ewallet,208,high
+C,Naypyitaw,Member,Female,No,No,No,Yes,No,No,57,10,19,589,Credit card,570,medium
+C,Naypyitaw,Member,Male,Yes,No,No,No,No,No,69,10,10,700,Cash,690,high
+C,Naypyitaw,Member,Female,Yes,No,No,No,No,No,52,10,15,535,Cash,520,high
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,61,1,17,78,Credit card,61,high
+A,Yangon,Normal,Female,No,No,Yes,No,No,No,24,6,18,162,Ewallet,144,high
+C,Naypyitaw,Normal,Female,Yes,No,No,No,No,No,40,6,20,260,Credit card,240,high
+A,Yangon,Member,Female,No,No,No,No,No,Yes,61,10,14,624,Ewallet,610,high
+C,Naypyitaw,Normal,Male,Yes,No,No,No,No,No,69,4,12,288,Credit card,276,medium
+B,Mandalay,Member,Male,No,No,Yes,No,No,No,61,8,13,501,Credit card,488,medium
+A,Yangon,Normal,Male,Yes,No,No,No,No,No,66,8,18,546,Credit card,528,medium
+B,Mandalay,Member,Female,No,No,No,No,No,Yes,63,4,18,270,Credit card,252,medium
+C,Naypyitaw,Member,Male,No,No,No,Yes,No,No,85,7,18,613,Credit card,595,medium
+A,Yangon,Normal,Male,No,No,No,No,No,Yes,83,9,10,757,Credit card,747,medium
+C,Naypyitaw,Normal,Female,No,No,No,No,Yes,No,38,6,17,245,Ewallet,228,high
+C,Naypyitaw,Normal,Female,No,No,No,Yes,No,No,10,8,11,91,Cash,80,high
+A,Yangon,Member,Male,No,No,No,No,Yes,No,47,5,14,249,Credit card,235,high
+B,Mandalay,Member,Male,No,Yes,No,No,No,No,79,1,14,93,Cash,79,medium
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,18,5,10,100,Ewallet,90,high
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,75,9,20,695,Ewallet,675,medium
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,30,6,17,197,Ewallet,180,high
+C,Naypyitaw,Normal,Female,No,No,No,No,Yes,No,21,8,17,185,Credit card,168,high
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,85,1,18,103,Cash,85,medium
+A,Yangon,Normal,Male,No,No,No,No,Yes,No,74,7,20,538,Credit card,518,medium
+C,Naypyitaw,Normal,Male,No,No,No,Yes,No,No,83,2,17,183,Ewallet,166,medium
+B,Mandalay,Normal,Male,No,No,No,No,Yes,No,71,10,11,721,Credit card,710,medium
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,67,8,12,548,Ewallet,536,medium
+C,Naypyitaw,Normal,Male,No,No,Yes,No,No,No,57,10,12,582,Cash,570,medium
+A,Yangon,Normal,Male,No,No,No,No,No,Yes,65,10,18,668,Credit card,650,high
+A,Yangon,Normal,Male,No,No,No,No,Yes,No,85,6,16,526,Cash,510,medium
+A,Yangon,Member,Male,No,No,No,Yes,No,No,44,7,20,328,Credit card,308,high
+A,Yangon,Normal,Male,Yes,No,No,No,No,No,63,5,10,325,Ewallet,315,medium
+B,Mandalay,Member,Male,No,No,No,No,Yes,No,74,5,17,387,Credit card,370,high
+C,Naypyitaw,Normal,Male,No,Yes,No,No,No,No,20,8,14,174,Cash,160,medium
+B,Mandalay,Member,Male,No,Yes,No,No,No,No,22,6,19,151,Credit card,132,high
+B,Mandalay,Normal,Male,No,No,No,No,Yes,No,30,8,19,259,Ewallet,240,high
+A,Yangon,Member,Male,No,No,Yes,No,No,No,13,9,20,137,Ewallet,117,high
+A,Yangon,Member,Male,No,No,No,No,Yes,No,52,8,17,433,Credit card,416,high
+C,Naypyitaw,Normal,Female,No,No,No,No,No,Yes,53,7,14,385,Credit card,371,medium
+A,Yangon,Normal,Male,No,No,No,No,Yes,No,50,6,18,318,Ewallet,300,low
+C,Naypyitaw,Member,Male,Yes,No,No,No,No,No,14,3,12,54,Ewallet,42,high
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,29,7,16,219,Cash,203,medium
+C,Naypyitaw,Member,Male,No,No,No,No,Yes,No,61,8,19,507,Cash,488,high
+A,Yangon,Member,Male,No,No,No,Yes,No,No,67,10,16,686,Ewallet,670,high
+C,Naypyitaw,Normal,Male,Yes,No,No,No,No,No,54,8,16,448,Ewallet,432,medium
+A,Yangon,Normal,Female,No,No,No,Yes,No,No,86,7,15,617,Credit card,602,medium
+B,Mandalay,Member,Male,No,No,No,No,Yes,No,66,3,12,210,Ewallet,198,high
+B,Mandalay,Member,Female,No,No,Yes,No,No,No,30,8,20,260,Ewallet,240,high
+B,Mandalay,Member,Male,No,No,Yes,No,No,No,41,4,11,175,Cash,164,medium
+A,Yangon,Normal,Male,No,No,Yes,No,No,No,32,1,13,45,Ewallet,32,high
+C,Naypyitaw,Normal,Female,No,No,Yes,No,No,No,20,4,10,90,Credit card,80,medium
+B,Mandalay,Normal,Female,No,No,Yes,No,No,No,62,3,19,205,Credit card,186,medium
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,11,2,16,38,Ewallet,22,medium
+C,Naypyitaw,Normal,Female,No,No,No,No,Yes,No,56,9,18,522,Cash,504,high
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,65,4,19,279,Ewallet,260,medium
+A,Yangon,Normal,Male,No,Yes,No,No,No,No,44,5,15,235,Credit card,220,high
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,77,1,20,97,Cash,77,medium
+C,Naypyitaw,Member,Male,Yes,No,No,No,No,No,23,2,20,66,Cash,46,medium
+A,Yangon,Normal,Female,No,No,Yes,No,No,No,25,1,12,37,Ewallet,25,medium
+C,Naypyitaw,Normal,Male,Yes,No,No,No,No,No,82,4,18,346,Credit card,328,high
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,61,5,19,324,Credit card,305,medium
+C,Naypyitaw,Member,Female,No,No,No,Yes,No,No,66,6,15,411,Credit card,396,medium
+B,Mandalay,Member,Female,No,Yes,No,No,No,No,19,4,15,91,Cash,76,medium
+C,Naypyitaw,Normal,Male,No,Yes,No,No,No,No,51,7,15,372,Cash,357,high
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,24,10,13,253,Ewallet,240,high
+B,Mandalay,Member,Male,No,No,Yes,No,No,No,22,5,10,120,Credit card,110,medium
+A,Yangon,Normal,Female,Yes,No,No,No,No,No,30,9,12,282,Ewallet,270,high
+C,Naypyitaw,Member,Female,No,Yes,No,No,No,No,36,9,11,335,Credit card,324,high
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,24,10,12,252,Ewallet,240,high
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,56,3,19,187,Ewallet,168,medium
+B,Mandalay,Normal,Female,No,Yes,No,No,No,No,58,9,10,532,Credit card,522,medium
+A,Yangon,Normal,Male,No,Yes,No,No,No,No,62,9,12,570,Ewallet,558,medium
+C,Naypyitaw,Normal,Female,No,No,No,No,Yes,No,79,9,14,725,Cash,711,high
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,46,5,12,242,Ewallet,230,medium
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,65,3,14,209,Credit card,195,low
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,19,7,18,151,Cash,133,medium
+A,Yangon,Normal,Male,No,No,Yes,No,No,No,65,1,20,85,Credit card,65,high
+B,Mandalay,Normal,Female,No,No,No,Yes,No,No,36,5,16,196,Cash,180,high
+A,Yangon,Member,Female,No,Yes,No,No,No,No,24,3,17,89,Cash,72,medium
+B,Mandalay,Normal,Male,No,No,No,No,No,Yes,38,8,16,320,Ewallet,304,high
+B,Mandalay,Normal,Female,No,No,No,No,Yes,No,22,3,20,86,Credit card,66,high
+B,Mandalay,Normal,Male,No,Yes,No,No,No,No,54,6,11,335,Ewallet,324,medium
+B,Mandalay,Normal,Male,No,No,No,No,Yes,No,22,7,20,174,Ewallet,154,medium
+C,Naypyitaw,Normal,Male,No,Yes,No,No,No,No,89,5,17,462,Cash,445,high
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,20,1,18,38,Cash,20,high
+A,Yangon,Normal,Male,No,No,No,No,Yes,No,11,2,17,39,Cash,22,medium
+C,Naypyitaw,Member,Female,No,No,No,Yes,No,No,42,2,14,98,Credit card,84,high
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,20,9,15,195,Ewallet,180,low
+C,Naypyitaw,Member,Male,No,Yes,No,No,No,No,46,4,11,195,Ewallet,184,high
+B,Mandalay,Member,Female,No,Yes,No,No,No,No,48,6,15,303,Cash,288,medium
+A,Yangon,Normal,Female,No,No,Yes,No,No,No,47,8,17,393,Ewallet,376,medium
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,83,2,11,177,Cash,166,medium
+B,Mandalay,Member,Female,No,Yes,No,No,No,No,75,3,12,237,Credit card,225,high
+B,Mandalay,Normal,Female,Yes,No,No,No,No,No,42,9,14,392,Cash,378,high
+B,Mandalay,Member,Male,No,No,No,No,No,Yes,27,4,17,125,Cash,108,medium
+A,Yangon,Member,Male,Yes,No,No,No,No,No,87,10,13,883,Ewallet,870,medium
+A,Yangon,Normal,Female,No,No,No,Yes,No,No,53,2,13,119,Ewallet,106,low
+C,Naypyitaw,Normal,Male,Yes,No,No,No,No,No,18,5,20,110,Credit card,90,medium
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,88,5,11,451,Credit card,440,high
+B,Mandalay,Member,Female,No,Yes,No,No,No,No,75,5,17,392,Cash,375,low
+A,Yangon,Normal,Male,No,No,No,No,No,Yes,55,1,12,67,Ewallet,55,medium
+A,Yangon,Normal,Male,No,No,No,No,Yes,No,87,9,15,798,Credit card,783,medium
+A,Yangon,Normal,Male,Yes,No,No,No,No,No,88,2,13,189,Credit card,176,medium
+C,Naypyitaw,Member,Male,No,No,No,No,No,Yes,86,2,15,187,Credit card,172,medium
+A,Yangon,Member,Male,No,No,Yes,No,No,No,67,4,12,280,Cash,268,low
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,82,8,10,666,Credit card,656,high
+A,Yangon,Member,Male,No,No,Yes,No,No,No,85,8,14,694,Cash,680,medium
+B,Mandalay,Member,Female,No,Yes,No,No,No,No,83,3,17,266,Cash,249,medium
+A,Yangon,Member,Male,No,No,No,No,No,Yes,38,5,10,200,Ewallet,190,medium
+A,Yangon,Member,Male,No,Yes,No,No,No,No,40,4,19,179,Credit card,160,high
+B,Mandalay,Normal,Male,No,No,No,No,Yes,No,17,7,19,138,Credit card,119,low
+B,Mandalay,Member,Male,No,No,No,No,Yes,No,33,9,19,316,Ewallet,297,medium
+C,Naypyitaw,Member,Male,No,No,No,No,No,Yes,76,10,11,771,Credit card,760,high
+C,Naypyitaw,Normal,Female,No,No,No,Yes,No,No,22,2,20,64,Credit card,44,medium
+A,Yangon,Normal,Male,No,No,Yes,No,No,No,65,4,16,276,Cash,260,medium
+A,Yangon,Member,Male,No,No,Yes,No,No,No,72,8,17,593,Cash,576,high
+B,Mandalay,Member,Male,No,No,No,No,No,Yes,87,4,19,367,Cash,348,high
+A,Yangon,Member,Male,No,Yes,No,No,No,No,44,1,16,60,Credit card,44,high
+A,Yangon,Member,Male,No,No,Yes,No,No,No,66,6,20,416,Ewallet,396,high
+A,Yangon,Member,Male,No,Yes,No,No,No,No,57,4,12,240,Ewallet,228,medium
+C,Naypyitaw,Member,Male,No,Yes,No,No,No,No,20,4,12,92,Credit card,80,medium
+A,Yangon,Normal,Female,No,Yes,No,No,No,No,78,9,10,712,Ewallet,702,medium
+C,Naypyitaw,Normal,Female,No,No,No,No,No,Yes,64,4,13,269,Ewallet,256,medium
+B,Mandalay,Member,Female,No,No,No,No,No,Yes,58,4,12,244,Cash,232,medium
+A,Yangon,Member,Female,No,No,No,Yes,No,No,50,10,18,518,Cash,500,low
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,65,1,14,79,Ewallet,65,high
+A,Yangon,Member,Female,No,No,No,Yes,No,No,60,7,16,436,Credit card,420,high
+C,Naypyitaw,Normal,Male,No,No,Yes,No,No,No,14,4,13,69,Credit card,56,medium
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,83,10,16,846,Cash,830,high
+A,Yangon,Member,Male,No,No,Yes,No,No,No,59,4,13,249,Credit card,236,low
+A,Yangon,Member,Female,No,No,Yes,No,No,No,10,10,16,116,Ewallet,100,medium
+B,Mandalay,Normal,Female,No,No,No,Yes,No,No,85,5,17,442,Ewallet,425,medium
+C,Naypyitaw,Member,Female,Yes,No,No,No,No,No,45,2,18,108,Cash,90,high
+A,Yangon,Member,Female,No,No,Yes,No,No,No,13,9,17,134,Credit card,117,high
+A,Yangon,Normal,Female,No,No,Yes,No,No,No,24,2,13,61,Cash,48,medium
+B,Mandalay,Normal,Female,Yes,No,No,No,No,No,64,6,19,403,Ewallet,384,high
+B,Mandalay,Normal,Male,No,No,No,No,No,Yes,88,7,20,636,Cash,616,medium
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,52,10,11,531,Cash,520,medium
+C,Naypyitaw,Normal,Female,No,No,No,No,No,Yes,41,4,12,176,Ewallet,164,medium
+C,Naypyitaw,Member,Male,No,No,No,No,No,Yes,13,10,15,145,Cash,130,medium
+A,Yangon,Member,Male,No,No,No,Yes,No,No,65,10,17,667,Credit card,650,high
+A,Yangon,Normal,Female,No,No,Yes,No,No,No,20,8,16,176,Credit card,160,medium
+C,Naypyitaw,Normal,Male,No,No,Yes,No,No,No,70,1,12,82,Credit card,70,high
+A,Yangon,Normal,Female,No,No,No,Yes,No,No,59,1,16,75,Cash,59,medium
+A,Yangon,Member,Male,Yes,No,No,No,No,No,47,6,15,297,Ewallet,282,high
+A,Yangon,Member,Female,Yes,No,No,No,No,No,16,4,10,74,Cash,64,high
+B,Mandalay,Normal,Male,Yes,No,No,No,No,No,11,5,10,65,Cash,55,high
+C,Naypyitaw,Member,Male,No,No,Yes,No,No,No,44,1,18,62,Cash,44,medium
+C,Naypyitaw,Normal,Female,No,No,No,Yes,No,No,54,9,19,505,Cash,486,high
+B,Mandalay,Normal,Female,No,No,No,No,Yes,No,23,7,19,180,Credit card,161,medium
+A,Yangon,Member,Female,No,No,Yes,No,No,No,74,7,13,531,Cash,518,low
+B,Mandalay,Member,Male,No,Yes,No,No,No,No,18,10,13,193,Credit card,180,medium
+C,Naypyitaw,Normal,Male,No,Yes,No,No,No,No,22,7,15,169,Ewallet,154,medium
+A,Yangon,Member,Female,No,Yes,No,No,No,No,53,1,13,66,Cash,53,medium
+A,Yangon,Member,Female,No,No,No,No,Yes,No,51,2,14,116,Cash,102,medium
+B,Mandalay,Normal,Male,Yes,No,No,No,No,No,40,10,10,410,Ewallet,400,medium
+C,Naypyitaw,Member,Female,No,Yes,No,No,No,No,65,5,13,338,Cash,325,high
+C,Naypyitaw,Normal,Male,No,Yes,No,No,No,No,78,4,11,323,Cash,312,medium
+A,Yangon,Member,Male,No,No,Yes,No,No,No,47,6,11,293,Ewallet,282,medium
+A,Yangon,Member,Male,No,No,Yes,No,No,No,33,4,11,143,Cash,132,medium
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,62,1,13,75,Cash,62,high
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,35,2,20,90,Credit card,70,medium
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,19,1,10,29,Credit card,19,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,Yes,No,63,1,12,75,Cash,63,low
+A,Yangon,Normal,Female,No,Yes,No,No,No,No,28,4,15,127,Credit card,112,medium
+B,Mandalay,Normal,Female,No,Yes,No,No,No,No,62,8,12,508,Cash,496,high
+A,Yangon,Member,Male,No,Yes,No,No,No,No,75,7,11,536,Ewallet,525,low
+A,Yangon,Normal,Female,No,No,No,Yes,No,No,71,7,16,513,Cash,497,high
+A,Yangon,Member,Female,No,No,Yes,No,No,No,55,8,14,454,Cash,440,low
+A,Yangon,Member,Female,No,Yes,No,No,No,No,15,3,10,55,Ewallet,45,medium
+A,Yangon,Normal,Female,No,No,No,No,No,Yes,32,2,17,81,Cash,64,high
+B,Mandalay,Member,Male,No,No,No,Yes,No,No,59,6,20,374,Cash,354,medium
+C,Naypyitaw,Member,Male,No,No,No,No,No,Yes,12,2,12,36,Ewallet,24,high
+A,Yangon,Member,Female,No,No,No,No,Yes,No,27,5,20,155,Credit card,135,low
+A,Yangon,Member,Female,Yes,No,No,No,No,No,48,9,18,450,Cash,432,medium
+C,Naypyitaw,Member,Female,No,Yes,No,No,No,No,83,10,19,849,Cash,830,low
+C,Naypyitaw,Member,Male,No,No,No,No,Yes,No,17,2,13,47,Cash,34,medium
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,46,3,11,149,Cash,138,medium
+C,Naypyitaw,Member,Male,No,Yes,No,No,No,No,74,5,13,383,Cash,370,medium
+C,Naypyitaw,Member,Female,Yes,No,No,No,No,No,37,7,16,275,Credit card,259,high
+C,Naypyitaw,Member,Male,Yes,No,No,No,No,No,29,4,11,127,Ewallet,116,high
+C,Naypyitaw,Normal,Female,No,No,No,No,Yes,No,40,9,14,374,Cash,360,medium
+C,Naypyitaw,Normal,Female,Yes,No,No,No,No,No,73,1,11,84,Cash,73,high
+A,Yangon,Normal,Male,Yes,No,No,No,No,No,45,6,10,280,Ewallet,270,high
+A,Yangon,Normal,Female,No,No,No,No,No,Yes,27,5,19,154,Cash,135,medium
+A,Yangon,Normal,Male,No,No,Yes,No,No,No,44,6,11,275,Credit card,264,high
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,67,4,15,283,Ewallet,268,medium
+A,Yangon,Member,Male,No,No,No,No,Yes,No,68,5,12,352,Cash,340,medium
+C,Naypyitaw,Member,Male,No,No,No,No,Yes,No,23,4,17,109,Cash,92,high
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,87,4,13,361,Credit card,348,low
+A,Yangon,Member,Male,No,Yes,No,No,No,No,52,4,13,221,Cash,208,high
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,24,9,13,229,Cash,216,medium
+A,Yangon,Normal,Male,No,No,No,No,Yes,No,10,3,20,50,Credit card,30,high
+A,Yangon,Normal,Male,No,No,No,No,No,Yes,20,5,20,120,Cash,100,medium
+A,Yangon,Member,Male,No,No,No,No,Yes,No,48,2,17,113,Credit card,96,high
+C,Naypyitaw,Member,Male,No,No,No,Yes,No,No,63,5,19,334,Ewallet,315,high
+A,Yangon,Member,Female,No,Yes,No,No,No,No,50,5,16,266,Credit card,250,high
+A,Yangon,Normal,Male,No,No,No,No,No,Yes,68,9,15,627,Ewallet,612,high
+B,Mandalay,Normal,Female,No,No,No,Yes,No,No,90,6,15,555,Cash,540,medium
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,29,3,14,101,Credit card,87,high
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,43,9,10,397,Credit card,387,high
+B,Mandalay,Member,Male,No,Yes,No,No,No,No,39,3,18,135,Credit card,117,high
+B,Mandalay,Member,Female,Yes,No,No,No,No,No,45,7,16,331,Ewallet,315,high
+B,Mandalay,Member,Female,Yes,No,No,No,No,No,66,7,15,477,Cash,462,high
+C,Naypyitaw,Normal,Female,No,No,No,No,Yes,No,48,5,14,254,Ewallet,240,high
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,80,3,17,257,Cash,240,medium
+A,Yangon,Normal,Female,No,No,No,No,No,Yes,60,9,15,555,Ewallet,540,high
+A,Yangon,Member,Male,No,Yes,No,No,No,No,49,1,17,66,Cash,49,medium
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,34,8,11,283,Cash,272,medium
+A,Yangon,Normal,Male,No,Yes,No,No,No,No,49,7,20,363,Cash,343,medium
+B,Mandalay,Normal,Female,Yes,No,No,No,No,No,48,10,10,490,Credit card,480,medium
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,29,10,19,309,Credit card,290,medium
+A,Yangon,Normal,Male,No,Yes,No,No,No,No,28,7,16,212,Cash,196,medium
+B,Mandalay,Member,Female,No,No,No,No,No,Yes,85,7,10,605,Credit card,595,high
+B,Mandalay,Member,Male,No,No,Yes,No,No,No,70,9,20,650,Cash,630,medium
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,83,1,20,103,Cash,83,high
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,56,4,12,236,Credit card,224,high
+C,Naypyitaw,Normal,Female,No,No,No,No,No,Yes,68,10,10,690,Credit card,680,high
+C,Naypyitaw,Normal,Female,No,No,No,Yes,No,No,29,10,18,308,Cash,290,medium
+B,Mandalay,Normal,Male,No,Yes,No,No,No,No,41,3,11,134,Ewallet,123,medium
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,60,1,15,75,Cash,60,medium
+A,Yangon,Member,Male,No,No,No,No,Yes,No,13,8,20,124,Credit card,104,medium
+C,Naypyitaw,Normal,Female,No,No,No,No,Yes,No,56,8,14,462,Cash,448,high
+C,Naypyitaw,Normal,Male,No,No,No,No,Yes,No,72,2,10,154,Ewallet,144,high
+A,Yangon,Normal,Male,No,No,Yes,No,No,No,44,6,11,275,Cash,264,medium
+C,Naypyitaw,Normal,Female,No,No,No,No,Yes,No,28,4,17,129,Cash,112,medium
+C,Naypyitaw,Normal,Female,No,No,No,No,No,Yes,82,4,10,338,Cash,328,high
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,19,9,20,191,Cash,171,medium
+A,Yangon,Member,Male,No,No,Yes,No,No,No,65,4,18,278,Cash,260,medium
+C,Naypyitaw,Normal,Female,No,No,No,Yes,No,No,62,10,18,638,Cash,620,medium
+A,Yangon,Member,Male,No,Yes,No,No,No,No,61,9,13,562,Credit card,549,high
+B,Mandalay,Member,Female,No,Yes,No,No,No,No,90,7,19,649,Cash,630,high
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,40,2,19,99,Credit card,80,medium
+C,Naypyitaw,Normal,Female,No,No,Yes,No,No,No,60,6,13,373,Ewallet,360,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,70,6,20,440,Cash,420,high
+A,Yangon,Normal,Female,No,No,Yes,No,No,No,39,5,11,206,Credit card,195,high
+A,Yangon,Member,Female,No,No,No,No,No,Yes,19,5,20,115,Ewallet,95,medium
+B,Mandalay,Member,Female,No,No,Yes,No,No,No,69,9,15,636,Credit card,621,high
+C,Naypyitaw,Normal,Male,No,No,No,Yes,No,No,38,7,19,285,Ewallet,266,high
+C,Naypyitaw,Member,Male,No,No,No,No,No,Yes,80,4,13,333,Ewallet,320,high
+B,Mandalay,Normal,Female,No,Yes,No,No,No,No,87,4,16,364,Credit card,348,low
+A,Yangon,Member,Male,No,No,No,Yes,No,No,42,4,18,186,Credit card,168,high
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,74,2,13,161,Cash,148,low
+B,Mandalay,Normal,Female,No,No,No,No,Yes,No,13,5,20,85,Cash,65,high
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,35,4,11,151,Ewallet,140,low
+A,Yangon,Normal,Female,No,No,No,No,Yes,No,84,5,20,440,Ewallet,420,high
+B,Mandalay,Member,Male,No,No,No,Yes,No,No,68,1,11,79,Cash,68,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,Yes,No,66,6,13,409,Cash,396,medium
+A,Yangon,Normal,Female,Yes,No,No,No,No,No,86,10,20,880,Credit card,860,high
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,85,9,17,782,Ewallet,765,high
+B,Mandalay,Normal,Male,No,No,No,No,Yes,No,12,7,10,94,Credit card,84,medium
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,15,3,10,55,Cash,45,high
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,31,10,10,320,Cash,310,high
+A,Yangon,Member,Male,No,Yes,No,No,No,No,30,1,15,45,Ewallet,30,medium
+A,Yangon,Member,Female,No,No,No,Yes,No,No,32,10,16,336,Credit card,320,medium
+A,Yangon,Normal,Female,Yes,No,No,No,No,No,19,1,11,30,Ewallet,19,medium
+A,Yangon,Normal,Female,Yes,No,No,No,No,No,26,5,12,142,Ewallet,130,low
+A,Yangon,Normal,Female,No,No,No,No,Yes,No,46,5,15,245,Ewallet,230,medium
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,29,9,11,272,Cash,261,medium
+B,Mandalay,Member,Female,Yes,No,No,No,No,No,27,6,18,180,Credit card,162,high
+B,Mandalay,Member,Male,No,Yes,No,No,No,No,44,9,12,408,Cash,396,high
+C,Naypyitaw,Normal,Female,No,No,No,No,Yes,No,81,6,12,498,Credit card,486,high
+C,Naypyitaw,Normal,Male,No,No,Yes,No,No,No,20,4,12,92,Credit card,80,medium
+C,Naypyitaw,Member,Male,No,No,Yes,No,No,No,63,1,14,77,Ewallet,63,high
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,10,5,10,60,Ewallet,50,high
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,51,7,16,373,Ewallet,357,medium
+A,Yangon,Member,Male,No,No,No,Yes,No,No,76,4,20,324,Credit card,304,high
+A,Yangon,Normal,Male,No,No,No,No,Yes,No,53,5,20,285,Credit card,265,high
+B,Mandalay,Member,Female,No,No,No,No,No,Yes,18,4,12,84,Cash,72,low
+A,Yangon,Normal,Female,No,No,Yes,No,No,No,44,4,13,189,Ewallet,176,medium
+C,Naypyitaw,Normal,Female,No,No,No,No,No,Yes,45,5,12,237,Ewallet,225,medium
+B,Mandalay,Normal,Female,Yes,No,No,No,No,No,53,10,20,550,Cash,530,medium
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,47,2,17,111,Ewallet,94,medium
+A,Yangon,Member,Male,Yes,No,No,No,No,No,26,5,12,142,Cash,130,high
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,75,3,17,242,Ewallet,225,medium
+A,Yangon,Normal,Male,No,No,Yes,No,No,No,79,8,14,646,Ewallet,632,high
+B,Mandalay,Normal,Male,Yes,No,No,No,No,No,41,1,18,59,Ewallet,41,high
+C,Naypyitaw,Normal,Female,No,No,Yes,No,No,No,83,4,19,351,Credit card,332,high
+C,Naypyitaw,Member,Female,Yes,No,No,No,No,No,26,1,10,36,Ewallet,26,high
+B,Mandalay,Normal,Female,Yes,No,No,No,No,No,83,2,20,186,Ewallet,166,high
+A,Yangon,Member,Female,No,Yes,No,No,No,No,63,7,13,454,Cash,441,high
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,78,3,13,247,Ewallet,234,high
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,57,3,14,185,Cash,171,high
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,78,10,18,798,Credit card,780,high
+B,Mandalay,Member,Male,No,No,No,No,No,Yes,53,8,13,437,Credit card,424,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,42,1,20,62,Cash,42,medium
+B,Mandalay,Member,Male,No,No,No,No,No,Yes,13,9,19,136,Cash,117,medium
+A,Yangon,Member,Male,Yes,No,No,No,No,No,67,7,11,480,Cash,469,high
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,21,3,10,73,Credit card,63,high
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,58,5,17,307,Cash,290,medium
+A,Yangon,Member,Female,No,No,Yes,No,No,No,18,10,11,191,Ewallet,180,medium
+B,Mandalay,Normal,Male,No,No,No,No,No,Yes,78,2,20,176,Credit card,156,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,Yes,No,85,2,15,185,Ewallet,170,medium
+A,Yangon,Normal,Female,No,Yes,No,No,No,No,51,6,11,317,Ewallet,306,medium
+B,Mandalay,Normal,Male,No,No,No,No,No,Yes,37,7,11,270,Credit card,259,high
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,44,1,20,64,Credit card,44,medium
+C,Naypyitaw,Normal,Male,No,No,No,Yes,No,No,61,9,16,565,Ewallet,549,high
+C,Naypyitaw,Member,Male,No,No,No,Yes,No,No,63,4,16,268,Ewallet,252,high
+A,Yangon,Normal,Male,No,No,Yes,No,No,No,66,6,20,416,Credit card,396,high
+C,Naypyitaw,Member,Male,No,No,No,No,Yes,No,69,4,10,286,Ewallet,276,medium
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,70,8,12,572,Credit card,560,medium
+C,Naypyitaw,Member,Male,No,No,No,No,Yes,No,83,5,10,425,Cash,415,high
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,12,8,10,106,Credit card,96,low
+A,Yangon,Member,Female,No,No,Yes,No,No,No,21,9,10,199,Credit card,189,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,27,1,10,37,Ewallet,27,high
+A,Yangon,Normal,Female,No,No,No,Yes,No,No,11,7,17,94,Cash,77,high
+B,Mandalay,Member,Female,Yes,No,No,No,No,No,66,1,11,77,Credit card,66,high
+C,Naypyitaw,Member,Male,No,No,No,No,Yes,No,65,10,19,669,Credit card,650,high
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,50,3,18,168,Credit card,150,medium
+B,Mandalay,Member,Female,Yes,No,No,No,No,No,83,1,18,101,Credit card,83,medium
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,90,1,11,101,Credit card,90,high
+B,Mandalay,Normal,Female,No,Yes,No,No,No,No,36,6,12,228,Cash,216,medium
+B,Mandalay,Normal,Male,No,Yes,No,No,No,No,79,6,13,487,Cash,474,high
+A,Yangon,Normal,Female,No,No,No,No,Yes,No,47,5,14,249,Ewallet,235,medium
+A,Yangon,Normal,Male,Yes,No,No,No,No,No,43,1,11,54,Ewallet,43,medium
+A,Yangon,Member,Male,No,Yes,No,No,No,No,16,4,20,84,Cash,64,medium
+B,Mandalay,Member,Female,No,No,No,No,No,Yes,27,5,11,146,Cash,135,medium
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,51,9,13,472,Credit card,459,medium
+B,Mandalay,Normal,Male,No,Yes,No,No,No,No,75,10,18,768,Cash,750,medium
+C,Naypyitaw,Member,Female,No,Yes,No,No,No,No,32,10,20,340,Cash,320,high
+C,Naypyitaw,Normal,Male,No,No,No,No,Yes,No,89,1,13,102,Credit card,89,high
+C,Naypyitaw,Normal,Male,No,No,No,No,Yes,No,61,5,19,324,Cash,305,medium
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,42,10,18,438,Credit card,420,high
+C,Naypyitaw,Normal,Female,No,No,No,Yes,No,No,44,4,16,192,Cash,176,medium
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,16,1,19,35,Cash,16,medium
+A,Yangon,Member,Male,No,No,No,No,Yes,No,58,5,10,300,Credit card,290,high
+C,Naypyitaw,Member,Female,No,No,No,Yes,No,No,88,10,18,898,Credit card,880,medium
+C,Naypyitaw,Member,Female,Yes,No,No,No,No,No,82,7,15,589,Credit card,574,high
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,70,6,15,435,Cash,420,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,Yes,No,12,1,12,24,Ewallet,12,medium
+C,Naypyitaw,Member,Female,No,Yes,No,No,No,No,72,1,18,90,Cash,72,high
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,47,6,13,295,Ewallet,282,medium
+A,Yangon,Member,Female,No,No,No,Yes,No,No,53,4,18,230,Cash,212,high
+A,Yangon,Member,Male,No,No,No,No,No,Yes,81,10,14,824,Credit card,810,medium
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,56,8,10,458,Cash,448,medium
+A,Yangon,Member,Female,No,Yes,No,No,No,No,30,5,14,164,Cash,150,medium
+A,Yangon,Normal,Male,Yes,No,No,No,No,No,80,3,10,250,Credit card,240,medium
+A,Yangon,Normal,Female,No,No,No,Yes,No,No,33,5,20,185,Credit card,165,low
+C,Naypyitaw,Normal,Male,No,Yes,No,No,No,No,32,4,15,143,Ewallet,128,low
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,79,10,17,807,Ewallet,790,medium
+A,Yangon,Normal,Male,No,Yes,No,No,No,No,89,1,12,101,Ewallet,89,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,Yes,No,79,8,13,645,Cash,632,high
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,23,10,14,244,Cash,230,medium
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,41,5,20,225,Ewallet,205,medium
+B,Mandalay,Member,Male,No,No,Yes,No,No,No,46,10,11,471,Cash,460,medium
+C,Naypyitaw,Member,Female,No,No,No,Yes,No,No,50,10,18,518,Credit card,500,medium
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,88,4,10,362,Ewallet,352,medium
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,25,10,20,270,Cash,250,medium
+A,Yangon,Normal,Male,No,No,No,No,No,Yes,15,4,15,75,Ewallet,60,high
+C,Naypyitaw,Normal,Male,No,No,Yes,No,No,No,24,1,16,40,Cash,24,low
+B,Mandalay,Member,Female,No,No,Yes,No,No,No,66,9,17,611,Ewallet,594,high
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,26,2,18,70,Ewallet,52,high
+A,Yangon,Member,Female,No,No,No,No,No,Yes,79,10,11,801,Credit card,790,medium
+B,Mandalay,Member,Female,Yes,No,No,No,No,No,44,8,12,364,Ewallet,352,high
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,45,10,19,469,Credit card,450,high
+B,Mandalay,Normal,Male,No,No,No,No,No,Yes,23,2,13,59,Ewallet,46,medium
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,43,8,17,361,Cash,344,medium
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,83,2,18,184,Cash,166,high
+C,Naypyitaw,Normal,Female,No,No,No,No,Yes,No,66,6,11,407,Cash,396,medium
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,88,1,13,101,Cash,88,high
+A,Yangon,Member,Female,No,No,No,Yes,No,No,80,8,18,658,Cash,640,high
+B,Mandalay,Member,Male,No,No,No,Yes,No,No,78,1,14,92,Credit card,78,medium
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,81,1,12,93,Ewallet,81,high
+C,Naypyitaw,Normal,Male,No,No,Yes,No,No,No,17,2,10,44,Ewallet,34,high
+B,Mandalay,Normal,Female,No,No,No,Yes,No,No,67,2,15,149,Cash,134,medium
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,19,1,11,30,Credit card,19,high
+A,Yangon,Member,Male,No,Yes,No,No,No,No,21,8,14,182,Ewallet,168,high
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,90,3,18,288,Cash,270,medium
+B,Mandalay,Normal,Female,No,No,No,No,Yes,No,26,6,10,166,Credit card,156,high
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,85,5,15,440,Cash,425,medium
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,28,6,16,184,Credit card,168,medium
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,15,7,16,121,Credit card,105,medium
+A,Yangon,Normal,Female,No,No,Yes,No,No,No,25,5,14,139,Ewallet,125,medium
+A,Yangon,Normal,Female,No,No,No,No,No,Yes,58,7,13,419,Ewallet,406,high
+A,Yangon,Normal,Male,No,Yes,No,No,No,No,79,7,16,569,Cash,553,high
+C,Naypyitaw,Member,Male,No,No,No,Yes,No,No,23,7,12,173,Credit card,161,high
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,75,1,18,93,Ewallet,75,high
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,27,5,15,150,Ewallet,135,high
+C,Naypyitaw,Member,Male,No,No,Yes,No,No,No,34,5,11,181,Credit card,170,high
+A,Yangon,Normal,Male,No,No,Yes,No,No,No,57,2,13,127,Ewallet,114,high
+C,Naypyitaw,Member,Male,No,No,No,Yes,No,No,53,5,15,280,Credit card,265,low
+B,Mandalay,Normal,Female,No,Yes,No,No,No,No,32,3,20,116,Credit card,96,high
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,50,6,13,313,Cash,300,medium
+A,Yangon,Member,Female,No,No,Yes,No,No,No,65,6,14,404,Credit card,390,medium
+C,Naypyitaw,Normal,Male,Yes,No,No,No,No,No,49,2,19,117,Cash,98,medium
+A,Yangon,Normal,Male,No,No,No,No,Yes,No,25,6,20,170,Credit card,150,high
+A,Yangon,Member,Female,No,No,No,Yes,No,No,61,5,19,324,Ewallet,305,medium
+B,Mandalay,Normal,Male,No,No,No,No,No,Yes,89,4,12,368,Credit card,356,high
+B,Mandalay,Member,Male,No,No,No,No,No,Yes,16,2,18,50,Ewallet,32,medium
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,44,10,19,459,Credit card,440,medium
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,16,9,18,162,Cash,144,high
+A,Yangon,Normal,Male,Yes,No,No,No,No,No,85,6,10,520,Ewallet,510,medium
+A,Yangon,Member,Male,No,No,No,No,No,Yes,39,8,17,329,Credit card,312,medium
+B,Mandalay,Normal,Male,No,Yes,No,No,No,No,40,10,11,411,Ewallet,400,high
+C,Naypyitaw,Normal,Female,No,No,No,No,Yes,No,37,9,14,347,Ewallet,333,high
+A,Yangon,Normal,Female,No,No,Yes,No,No,No,84,5,16,436,Ewallet,420,medium
+C,Naypyitaw,Normal,Male,No,No,Yes,No,No,No,60,7,10,430,Ewallet,420,medium
+B,Mandalay,Member,Female,No,No,No,No,No,Yes,58,1,13,71,Credit card,58,medium
+A,Yangon,Normal,Male,No,No,Yes,No,No,No,27,1,19,46,Ewallet,27,medium
+A,Yangon,Normal,Female,No,No,No,No,No,Yes,73,4,11,303,Credit card,292,medium
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,14,6,11,95,Ewallet,84,medium
+A,Yangon,Normal,Male,No,No,Yes,No,No,No,33,3,12,111,Ewallet,99,high
+C,Naypyitaw,Member,Male,Yes,No,No,No,No,No,71,1,17,88,Credit card,71,medium
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,45,4,11,191,Credit card,180,medium
+C,Naypyitaw,Member,Male,No,Yes,No,No,No,No,64,6,17,401,Credit card,384,medium
+B,Mandalay,Normal,Female,No,No,No,No,Yes,No,37,1,15,52,Credit card,37,high
+B,Mandalay,Member,Male,No,No,Yes,No,No,No,36,4,12,156,Ewallet,144,medium
+A,Yangon,Normal,Female,No,No,No,No,No,Yes,44,10,16,456,Ewallet,440,high
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,45,9,13,418,Credit card,405,medium
+B,Mandalay,Normal,Female,No,No,No,Yes,No,No,84,5,14,434,Cash,420,low
+A,Yangon,Normal,Female,No,Yes,No,No,No,No,26,6,13,169,Cash,156,medium
+B,Mandalay,Normal,Male,No,No,No,No,No,Yes,12,3,16,52,Ewallet,36,medium
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,30,9,10,280,Cash,270,high
+B,Mandalay,Normal,Female,Yes,No,No,No,No,No,79,9,17,728,Cash,711,high
+C,Naypyitaw,Normal,Male,No,Yes,No,No,No,No,80,6,20,500,Credit card,480,high
+A,Yangon,Member,Male,No,Yes,No,No,No,No,76,7,18,550,Cash,532,medium
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,31,3,19,112,Credit card,93,high
+B,Mandalay,Member,Female,No,No,No,No,No,Yes,22,2,12,56,Cash,44,high
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,34,10,14,354,Ewallet,340,medium
+A,Yangon,Member,Male,No,No,No,No,Yes,No,87,6,11,533,Ewallet,522,medium
+A,Yangon,Member,Female,No,No,Yes,No,No,No,23,3,15,84,Ewallet,69,high
+B,Mandalay,Normal,Male,No,Yes,No,No,No,No,35,9,13,328,Cash,315,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,Yes,No,29,10,11,301,Credit card,290,low
+B,Mandalay,Normal,Female,No,Yes,No,No,No,No,35,8,19,299,Ewallet,280,medium
+A,Yangon,Member,Male,No,Yes,No,No,No,No,33,6,13,211,Ewallet,198,medium
+B,Mandalay,Normal,Male,No,No,No,No,No,Yes,15,2,11,41,Cash,30,high
+A,Yangon,Normal,Female,No,No,No,No,Yes,No,83,10,12,842,Credit card,830,medium
+C,Naypyitaw,Normal,Female,No,No,No,Yes,No,No,26,10,18,278,Credit card,260,high
+A,Yangon,Normal,Female,No,No,No,No,No,Yes,33,9,16,313,Cash,297,high
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,43,7,20,321,Credit card,301,medium
+C,Naypyitaw,Normal,Female,No,No,No,Yes,No,No,58,7,10,416,Ewallet,406,low
+B,Mandalay,Member,Female,No,No,Yes,No,No,No,29,5,18,163,Credit card,145,high
+B,Mandalay,Member,Male,No,No,No,Yes,No,No,52,10,11,531,Cash,520,high
+A,Yangon,Member,Male,No,No,No,No,Yes,No,36,7,12,264,Ewallet,252,high
+B,Mandalay,Normal,Male,No,No,No,No,Yes,No,37,2,20,94,Credit card,74,high
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,64,5,14,334,Credit card,320,high
+B,Mandalay,Member,Male,No,No,No,No,No,Yes,41,7,19,306,Ewallet,287,medium
+B,Mandalay,Normal,Male,No,No,No,No,Yes,No,22,4,13,101,Cash,88,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,Yes,No,39,4,20,176,Ewallet,156,medium
+A,Yangon,Normal,Female,Yes,No,No,No,No,No,26,4,10,114,Cash,104,high
+B,Mandalay,Normal,Male,Yes,No,No,No,No,No,79,2,11,169,Ewallet,158,high
+C,Naypyitaw,Normal,Male,No,No,No,No,Yes,No,20,3,10,70,Cash,60,medium
+A,Yangon,Member,Female,Yes,No,No,No,No,No,54,4,14,230,Cash,216,high
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,65,2,13,143,Credit card,130,high
+B,Mandalay,Member,Female,No,No,No,No,No,Yes,69,4,17,293,Credit card,276,high
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,10,3,14,44,Ewallet,30,medium
+A,Yangon,Normal,Male,Yes,No,No,No,No,No,60,4,12,252,Credit card,240,high
+A,Yangon,Normal,Female,No,No,No,No,Yes,No,47,3,12,153,Cash,141,high
+A,Yangon,Normal,Female,No,No,No,Yes,No,No,39,5,13,208,Ewallet,195,high
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,57,10,20,590,Cash,570,medium
+A,Yangon,Normal,Male,Yes,No,No,No,No,No,90,5,17,467,Cash,450,low
+C,Naypyitaw,Member,Male,Yes,No,No,No,No,No,74,6,12,456,Credit card,444,low
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,53,7,17,388,Ewallet,371,high
+A,Yangon,Member,Female,No,No,No,Yes,No,No,66,1,10,76,Cash,66,high
+A,Yangon,Member,Female,No,No,No,Yes,No,No,61,3,15,198,Ewallet,183,medium
+B,Mandalay,Member,Male,No,No,No,Yes,No,No,22,3,15,81,Cash,66,medium
+B,Mandalay,Normal,Male,Yes,No,No,No,No,No,55,3,19,184,Credit card,165,high
+A,Yangon,Normal,Male,No,No,No,No,Yes,No,36,3,20,128,Credit card,108,high
+C,Naypyitaw,Normal,Female,No,No,No,Yes,No,No,62,9,12,570,Ewallet,558,medium
+C,Naypyitaw,Normal,Female,No,No,No,No,No,Yes,65,5,15,340,Cash,325,high
+A,Yangon,Member,Female,No,No,Yes,No,No,No,10,2,13,33,Ewallet,20,high
+C,Naypyitaw,Normal,Male,No,Yes,No,No,No,No,17,1,16,33,Ewallet,17,medium
+C,Naypyitaw,Normal,Female,No,No,No,No,No,Yes,44,1,19,63,Credit card,44,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,Yes,No,13,10,14,144,Ewallet,130,medium
+B,Mandalay,Normal,Female,No,No,No,Yes,No,No,28,6,15,183,Ewallet,168,high
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,24,7,15,183,Cash,168,medium
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,32,4,12,140,Cash,128,high
+A,Yangon,Member,Female,No,No,No,No,No,Yes,80,7,20,580,Ewallet,560,medium
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,77,4,13,321,Credit card,308,medium
+A,Yangon,Normal,Male,No,No,No,No,No,Yes,16,1,20,36,Ewallet,16,medium
+B,Mandalay,Member,Male,No,No,No,No,Yes,No,28,2,10,66,Ewallet,56,high
+A,Yangon,Normal,Female,No,Yes,No,No,No,No,10,1,13,23,Credit card,10,medium
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,44,9,15,411,Cash,396,medium
+B,Mandalay,Member,Male,No,No,No,No,No,Yes,19,3,19,76,Cash,57,medium
+C,Naypyitaw,Member,Male,No,No,No,Yes,No,No,62,1,20,82,Credit card,62,high
+A,Yangon,Member,Male,No,No,No,No,Yes,No,90,10,15,915,Ewallet,900,low
+A,Yangon,Member,Female,No,No,No,Yes,No,No,36,9,11,335,Ewallet,324,low
+B,Mandalay,Member,Male,No,No,No,Yes,No,No,70,6,14,434,Cash,420,medium
+C,Naypyitaw,Member,Male,No,Yes,No,No,No,No,34,5,14,184,Ewallet,170,low
+A,Yangon,Member,Male,No,No,No,No,Yes,No,11,6,11,77,Credit card,66,low
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,66,6,10,406,Ewallet,396,high
+A,Yangon,Normal,Female,No,No,No,No,Yes,No,89,3,13,280,Credit card,267,high
+A,Yangon,Member,Female,No,No,No,No,Yes,No,48,1,17,65,Cash,48,high
+B,Mandalay,Member,Female,No,No,Yes,No,No,No,86,7,10,612,Credit card,602,medium
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,21,10,20,230,Credit card,210,low
+B,Mandalay,Member,Male,No,No,No,No,No,Yes,57,1,11,68,Cash,57,medium
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,78,2,12,168,Cash,156,high
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,84,2,11,179,Ewallet,168,high
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,19,10,18,208,Cash,190,medium
+A,Yangon,Member,Male,No,No,Yes,No,No,No,38,3,11,125,Ewallet,114,high
+A,Yangon,Normal,Female,No,No,No,No,No,Yes,29,1,13,42,Credit card,29,high
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,18,10,16,196,Credit card,180,medium
+A,Yangon,Normal,Male,No,Yes,No,No,No,No,65,3,14,209,Ewallet,195,medium
+A,Yangon,Member,Male,No,No,No,No,Yes,No,83,2,18,184,Credit card,166,medium
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,26,3,11,89,Ewallet,78,medium
+B,Mandalay,Member,Male,No,No,No,No,Yes,No,70,3,13,223,Credit card,210,medium
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,58,10,14,594,Credit card,580,medium
+A,Yangon,Normal,Male,Yes,No,No,No,No,No,26,7,14,196,Credit card,182,medium
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,39,1,12,51,Cash,39,medium
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,39,5,11,206,Cash,195,high
+B,Mandalay,Normal,Male,No,No,No,No,No,Yes,39,3,16,133,Ewallet,117,high
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,13,3,11,50,Ewallet,39,medium
+C,Naypyitaw,Member,Female,No,Yes,No,No,No,No,16,8,13,141,Ewallet,128,medium
+B,Mandalay,Member,Male,No,Yes,No,No,No,No,76,2,13,165,Ewallet,152,medium
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,44,8,16,368,Credit card,352,low
+C,Naypyitaw,Member,Male,No,Yes,No,No,No,No,76,5,13,393,Ewallet,380,medium
+A,Yangon,Member,Male,No,No,Yes,No,No,No,36,9,11,335,Ewallet,324,high
+C,Naypyitaw,Normal,Male,Yes,No,No,No,No,No,32,6,19,211,Cash,192,medium
+B,Mandalay,Member,Male,No,No,No,No,No,Yes,52,1,13,65,Cash,52,medium
+C,Naypyitaw,Member,Female,No,No,No,Yes,No,No,32,2,10,74,Cash,64,medium
+C,Naypyitaw,Normal,Male,No,Yes,No,No,No,No,14,10,11,151,Cash,140,medium
+B,Mandalay,Normal,Male,No,Yes,No,No,No,No,19,5,20,115,Ewallet,95,high
+B,Mandalay,Normal,Female,Yes,No,No,No,No,No,15,6,19,109,Cash,90,high
+A,Yangon,Member,Male,No,No,Yes,No,No,No,77,10,13,783,Cash,770,medium
+B,Mandalay,Member,Male,No,No,No,Yes,No,No,61,9,17,566,Ewallet,549,medium
+B,Mandalay,Member,Male,No,No,No,No,No,Yes,80,4,18,338,Credit card,320,high
+A,Yangon,Normal,Female,No,Yes,No,No,No,No,28,3,19,103,Credit card,84,medium
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,71,1,10,81,Credit card,71,high
+A,Yangon,Member,Female,No,No,No,No,No,Yes,59,3,10,187,Ewallet,177,high
+A,Yangon,Member,Female,No,No,No,Yes,No,No,84,5,10,430,Cash,420,medium
+A,Yangon,Member,Male,No,No,No,No,No,Yes,49,1,11,60,Credit card,49,medium
+B,Mandalay,Normal,Female,No,No,No,Yes,No,No,17,3,13,64,Cash,51,high
+C,Naypyitaw,Member,Male,No,No,No,Yes,No,No,25,7,14,189,Credit card,175,high
+B,Mandalay,Member,Female,No,No,No,No,No,Yes,32,6,19,211,Credit card,192,medium
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,48,10,10,490,Credit card,480,high
+C,Naypyitaw,Normal,Female,No,No,No,Yes,No,No,82,2,16,180,Cash,164,high
+A,Yangon,Normal,Female,No,No,No,No,No,Yes,11,4,17,61,Ewallet,44,high
+B,Mandalay,Member,Male,No,No,No,No,Yes,No,21,3,16,79,Ewallet,63,high
+B,Mandalay,Normal,Female,Yes,No,No,No,No,No,89,4,14,370,Ewallet,356,medium
+C,Naypyitaw,Member,Female,Yes,No,No,No,No,No,48,6,19,307,Ewallet,288,low
+B,Mandalay,Normal,Female,No,No,No,Yes,No,No,34,2,12,80,Credit card,68,low
+A,Yangon,Member,Male,No,No,No,No,No,Yes,21,10,19,229,Ewallet,210,low
+B,Mandalay,Member,Male,No,No,No,No,Yes,No,20,2,20,60,Cash,40,medium
+B,Mandalay,Normal,Female,Yes,No,No,No,No,No,66,3,19,217,Ewallet,198,low
+C,Naypyitaw,Normal,Male,Yes,No,No,No,No,No,73,8,18,602,Credit card,584,high
+A,Yangon,Normal,Female,No,Yes,No,No,No,No,82,10,13,833,Credit card,820,medium
+B,Mandalay,Member,Male,No,No,No,No,No,Yes,51,2,19,121,Cash,102,medium
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,63,7,16,457,Credit card,441,medium
+A,Yangon,Member,Female,No,No,No,No,Yes,No,90,4,14,374,Cash,360,medium
+C,Naypyitaw,Normal,Male,Yes,No,No,No,No,No,49,10,20,510,Ewallet,490,high
+A,Yangon,Member,Male,No,No,No,No,Yes,No,37,6,16,238,Ewallet,222,high
+B,Mandalay,Member,Female,No,Yes,No,No,No,No,88,1,11,99,Cash,88,medium
+B,Mandalay,Normal,Female,No,No,No,Yes,No,No,15,1,19,34,Credit card,15,medium
+C,Naypyitaw,Normal,Female,No,No,No,No,No,Yes,20,6,17,137,Ewallet,120,medium
+A,Yangon,Member,Male,No,No,No,No,No,Yes,15,2,13,43,Ewallet,30,medium
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,12,6,20,92,Ewallet,72,medium
+B,Mandalay,Member,Female,No,No,Yes,No,No,No,50,2,14,114,Credit card,100,medium
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,83,2,19,185,Credit card,166,high
+A,Yangon,Member,Male,No,No,Yes,No,No,No,68,10,11,691,Cash,680,low
+C,Naypyitaw,Member,Male,No,No,No,Yes,No,No,23,2,14,60,Cash,46,medium
+A,Yangon,Normal,Female,No,No,No,No,Yes,No,83,3,14,263,Cash,249,high
+C,Naypyitaw,Member,Female,No,No,No,Yes,No,No,19,9,10,181,Cash,171,medium
+C,Naypyitaw,Member,Male,No,No,No,No,Yes,No,46,7,13,335,Ewallet,322,medium
+A,Yangon,Member,Male,Yes,No,No,No,No,No,77,10,14,784,Cash,770,high
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,53,7,19,390,Cash,371,high
+C,Naypyitaw,Normal,Female,No,No,No,No,Yes,No,22,9,17,215,Cash,198,high
+A,Yangon,Member,Female,No,No,Yes,No,No,No,35,5,10,185,Cash,175,medium
+A,Yangon,Member,Female,No,No,No,Yes,No,No,66,4,10,274,Ewallet,264,medium
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,19,4,20,96,Ewallet,76,low
+A,Yangon,Member,Male,No,Yes,No,No,No,No,72,9,14,662,Credit card,648,high
+C,Naypyitaw,Normal,Male,No,No,Yes,No,No,No,45,10,14,464,Ewallet,450,high
+C,Naypyitaw,Normal,Female,No,No,No,No,No,Yes,18,8,11,155,Ewallet,144,high
+B,Mandalay,Normal,Male,No,No,No,No,Yes,No,79,3,18,255,Credit card,237,low
+B,Mandalay,Member,Female,No,No,No,No,No,Yes,21,10,20,230,Credit card,210,medium
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,17,9,20,173,Cash,153,high
+B,Mandalay,Member,Female,No,No,Yes,No,No,No,87,9,20,803,Cash,783,medium
+B,Mandalay,Normal,Male,Yes,No,No,No,No,No,62,7,12,446,Cash,434,high
+B,Mandalay,Normal,Female,No,Yes,No,No,No,No,45,4,18,198,Ewallet,180,high
+C,Naypyitaw,Member,Male,No,No,No,No,Yes,No,26,1,16,42,Cash,26,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,46,8,14,382,Ewallet,368,high
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,85,3,11,266,Ewallet,255,medium
+A,Yangon,Member,Male,No,No,No,No,Yes,No,78,6,18,486,Cash,468,high
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,74,4,13,309,Ewallet,296,high
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,32,9,10,298,Ewallet,288,medium
+C,Naypyitaw,Normal,Female,Yes,No,No,No,No,No,41,9,18,387,Ewallet,369,medium
+C,Naypyitaw,Member,Male,No,No,No,No,No,Yes,61,8,10,498,Ewallet,488,high
+A,Yangon,Normal,Female,Yes,No,No,No,No,No,55,5,19,294,Credit card,275,medium
+A,Yangon,Member,Female,No,No,No,No,No,Yes,49,7,17,360,Ewallet,343,medium
+A,Yangon,Member,Male,No,Yes,No,No,No,No,82,3,14,260,Credit card,246,high
+A,Yangon,Normal,Male,No,No,No,No,No,Yes,85,3,16,271,Credit card,255,medium
+B,Mandalay,Member,Female,No,No,No,No,No,Yes,22,6,16,148,Credit card,132,medium
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,79,7,16,569,Cash,553,medium
+C,Naypyitaw,Member,Female,No,No,No,Yes,No,No,72,9,10,658,Cash,648,medium
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,76,3,19,247,Credit card,228,high
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,39,7,20,293,Cash,273,medium
+B,Mandalay,Member,Male,No,No,No,No,Yes,No,15,4,12,72,Ewallet,60,medium
+C,Naypyitaw,Member,Female,Yes,No,No,No,No,No,11,8,12,100,Cash,88,medium
+C,Naypyitaw,Member,Male,No,No,Yes,No,No,No,74,3,11,233,Credit card,222,medium
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,62,10,11,631,Credit card,620,high
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,24,4,18,114,Ewallet,96,medium
+B,Mandalay,Member,Female,No,No,Yes,No,No,No,52,7,16,380,Cash,364,high
+A,Yangon,Member,Female,No,No,No,No,No,Yes,60,4,16,256,Credit card,240,low
+A,Yangon,Normal,Male,Yes,No,No,No,No,No,44,3,11,143,Ewallet,132,medium
+A,Yangon,Member,Male,No,No,No,No,No,Yes,67,1,10,77,Ewallet,67,high
+B,Mandalay,Normal,Male,No,Yes,No,No,No,No,44,7,16,324,Ewallet,308,high
+B,Mandalay,Member,Male,No,No,No,No,Yes,No,60,1,11,71,Ewallet,60,medium
+C,Naypyitaw,Member,Male,Yes,No,No,No,No,No,89,10,13,903,Credit card,890,medium
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,30,7,15,225,Credit card,210,high
+C,Naypyitaw,Normal,Male,No,Yes,No,No,No,No,51,10,16,526,Ewallet,510,high
+B,Mandalay,Member,Male,No,Yes,No,No,No,No,41,8,20,348,Ewallet,328,medium
+A,Yangon,Normal,Male,No,No,Yes,No,No,No,77,9,13,706,Cash,693,high
+C,Naypyitaw,Normal,Male,No,No,Yes,No,No,No,37,7,19,278,Cash,259,high
+C,Naypyitaw,Normal,Male,No,No,No,No,Yes,No,46,1,10,56,Ewallet,46,high
+A,Yangon,Member,Female,No,No,No,Yes,No,No,41,2,13,95,Ewallet,82,high
+A,Yangon,Member,Male,No,No,Yes,No,No,No,51,2,11,113,Ewallet,102,high
+C,Naypyitaw,Member,Female,No,No,No,Yes,No,No,12,8,11,107,Credit card,96,medium
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,32,1,18,50,Cash,32,high
+B,Mandalay,Member,Male,No,No,No,No,No,Yes,78,10,13,793,Credit card,780,medium
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,30,5,17,167,Credit card,150,medium
+B,Mandalay,Member,Female,No,No,Yes,No,No,No,50,9,15,465,Credit card,450,high
+C,Naypyitaw,Member,Male,Yes,No,No,No,No,No,23,7,20,181,Cash,161,high
+B,Mandalay,Member,Female,No,No,No,No,No,Yes,35,4,19,159,Ewallet,140,low
+A,Yangon,Normal,Female,No,No,No,No,Yes,No,28,5,11,151,Credit card,140,high
+A,Yangon,Member,Female,No,Yes,No,No,No,No,76,10,16,776,Ewallet,760,medium
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,64,5,11,331,Ewallet,320,high
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,22,3,16,82,Ewallet,66,medium
+A,Yangon,Normal,Female,No,No,No,No,No,Yes,89,8,14,726,Credit card,712,medium
+B,Mandalay,Member,Female,No,Yes,No,No,No,No,28,8,13,237,Ewallet,224,medium
+A,Yangon,Normal,Female,No,No,Yes,No,No,No,67,6,19,421,Cash,402,medium
+A,Yangon,Member,Male,No,No,No,No,Yes,No,70,10,20,720,Ewallet,700,medium
+A,Yangon,Normal,Female,No,No,No,No,Yes,No,16,4,13,77,Ewallet,64,high
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,70,10,10,710,Credit card,700,medium
+B,Mandalay,Normal,Male,No,Yes,No,No,No,No,86,10,10,870,Credit card,860,low
+A,Yangon,Member,Female,No,No,No,No,No,Yes,57,8,13,469,Ewallet,456,high
+A,Yangon,Member,Female,Yes,No,No,No,No,No,75,5,10,385,Ewallet,375,high
+A,Yangon,Member,Male,Yes,No,No,No,No,No,54,4,14,230,Credit card,216,medium
+B,Mandalay,Normal,Female,No,No,Yes,No,No,No,15,8,13,133,Ewallet,120,medium
+C,Naypyitaw,Normal,Female,No,No,No,No,No,Yes,15,3,12,57,Credit card,45,high
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,14,6,18,102,Cash,84,medium
+B,Mandalay,Normal,Female,No,Yes,No,No,No,No,25,4,12,112,Cash,100,high
+A,Yangon,Normal,Female,No,No,Yes,No,No,No,49,6,18,312,Cash,294,high
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,56,4,12,236,Ewallet,224,medium
+C,Naypyitaw,Member,Female,Yes,No,No,No,No,No,60,7,15,435,Credit card,420,high
+C,Naypyitaw,Member,Female,No,No,No,Yes,No,No,14,7,18,116,Ewallet,98,medium
+C,Naypyitaw,Normal,Female,No,No,No,No,Yes,No,24,1,18,42,Credit card,24,medium
+C,Naypyitaw,Member,Male,No,No,No,No,Yes,No,73,2,10,156,Cash,146,medium
+B,Mandalay,Normal,Female,No,No,No,No,Yes,No,48,5,20,260,Credit card,240,high
+C,Naypyitaw,Member,Male,Yes,No,No,No,No,No,75,7,19,544,Credit card,525,low
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,90,1,20,110,Cash,90,high
+C,Naypyitaw,Member,Male,No,No,No,Yes,No,No,77,5,13,398,Cash,385,medium
+B,Mandalay,Member,Male,No,Yes,No,No,No,No,82,9,10,748,Ewallet,738,medium
+C,Naypyitaw,Normal,Male,Yes,No,No,No,No,No,61,8,18,506,Cash,488,high
+A,Yangon,Normal,Female,No,No,No,Yes,No,No,17,4,10,78,Ewallet,68,high
+A,Yangon,Member,Female,No,No,No,No,No,Yes,33,1,18,51,Credit card,33,low
+C,Naypyitaw,Normal,Female,No,No,Yes,No,No,No,50,8,15,415,Cash,400,high
+C,Naypyitaw,Member,Female,Yes,No,No,No,No,No,82,5,15,425,Ewallet,410,low
+A,Yangon,Normal,Male,No,Yes,No,No,No,No,64,7,12,460,Credit card,448,high
+C,Naypyitaw,Normal,Male,No,Yes,No,No,No,No,29,8,18,250,Ewallet,232,medium
+C,Naypyitaw,Normal,Female,Yes,No,No,No,No,No,54,5,13,283,Credit card,270,high
+C,Naypyitaw,Member,Male,Yes,No,No,No,No,No,61,3,14,197,Credit card,183,medium
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,27,7,18,207,Ewallet,189,high
+A,Yangon,Normal,Male,No,No,No,No,No,Yes,90,1,15,105,Credit card,90,low
+C,Naypyitaw,Member,Male,Yes,No,No,No,No,No,64,4,10,266,Credit card,256,high
+B,Mandalay,Normal,Female,No,No,Yes,No,No,No,38,10,20,400,Credit card,380,medium
+A,Yangon,Member,Male,No,Yes,No,No,No,No,90,7,10,640,Credit card,630,high
+A,Yangon,Normal,Female,No,Yes,No,No,No,No,19,2,16,54,Credit card,38,medium
+B,Mandalay,Normal,Male,No,No,No,No,No,Yes,89,2,13,191,Ewallet,178,low
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,33,1,15,48,Cash,33,medium
+A,Yangon,Member,Female,No,No,No,Yes,No,No,15,10,18,168,Cash,150,high
+B,Mandalay,Normal,Male,Yes,No,No,No,No,No,30,1,17,47,Credit card,30,high
+C,Naypyitaw,Member,Male,No,No,Yes,No,No,No,46,5,10,240,Ewallet,230,high
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,88,6,12,540,Ewallet,528,high
+C,Naypyitaw,Member,Female,No,Yes,No,No,No,No,48,8,17,401,Ewallet,384,medium
+C,Naypyitaw,Member,Male,No,No,No,No,No,Yes,30,7,12,222,Ewallet,210,medium
+A,Yangon,Member,Female,No,No,No,No,No,Yes,83,9,11,758,Cash,747,high
+B,Mandalay,Member,Female,No,Yes,No,No,No,No,90,9,13,823,Cash,810,high
+A,Yangon,Normal,Female,No,No,Yes,No,No,No,75,4,17,317,Cash,300,low
+A,Yangon,Normal,Female,No,No,No,Yes,No,No,88,2,10,186,Credit card,176,high
+A,Yangon,Normal,Female,No,Yes,No,No,No,No,74,4,14,310,Cash,296,high
+B,Mandalay,Normal,Female,Yes,No,No,No,No,No,49,1,14,63,Cash,49,high
+C,Naypyitaw,Normal,Female,No,No,No,No,No,Yes,52,10,12,532,Ewallet,520,medium
+B,Mandalay,Normal,Male,Yes,No,No,No,No,No,86,8,18,706,Ewallet,688,medium
+A,Yangon,Normal,Female,No,Yes,No,No,No,No,87,10,16,886,Credit card,870,medium
+C,Naypyitaw,Member,Female,No,No,No,Yes,No,No,12,5,20,80,Credit card,60,medium
+A,Yangon,Normal,Male,No,Yes,No,No,No,No,76,1,18,94,Cash,76,medium
+A,Yangon,Member,Female,No,Yes,No,No,No,No,49,8,13,405,Cash,392,medium
+B,Mandalay,Normal,Female,No,No,No,No,Yes,No,85,8,13,693,Ewallet,680,medium
+C,Naypyitaw,Normal,Female,No,No,No,No,No,Yes,66,7,11,473,Cash,462,high
+A,Yangon,Normal,Male,No,No,No,No,Yes,No,81,8,13,661,Ewallet,648,high
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,42,4,15,183,Credit card,168,high
+B,Mandalay,Member,Male,No,No,No,No,Yes,No,36,5,20,200,Credit card,180,medium
+B,Mandalay,Normal,Male,No,Yes,No,No,No,No,35,4,19,159,Ewallet,140,medium
+A,Yangon,Member,Female,No,No,Yes,No,No,No,67,2,11,145,Credit card,134,low
+C,Naypyitaw,Member,Male,No,No,No,Yes,No,No,11,1,17,28,Cash,11,medium
+A,Yangon,Normal,Female,Yes,No,No,No,No,No,26,3,15,93,Cash,78,high
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,18,7,14,140,Credit card,126,medium
+A,Yangon,Member,Female,No,No,No,Yes,No,No,41,4,19,183,Credit card,164,medium
+B,Mandalay,Member,Female,Yes,No,No,No,No,No,87,9,14,797,Credit card,783,high
+A,Yangon,Member,Male,No,No,No,No,No,Yes,25,3,10,85,Credit card,75,high
+C,Naypyitaw,Normal,Male,No,Yes,No,No,No,No,76,10,15,775,Cash,760,medium
+A,Yangon,Member,Female,No,Yes,No,No,No,No,60,10,15,615,Credit card,600,low
+A,Yangon,Normal,Male,No,Yes,No,No,No,No,89,8,11,723,Cash,712,high
+B,Mandalay,Normal,Male,Yes,No,No,No,No,No,90,4,11,371,Cash,360,high
+B,Mandalay,Member,Female,No,No,No,Yes,No,No,32,8,12,268,Cash,256,low
+A,Yangon,Member,Male,Yes,No,No,No,No,No,79,1,20,99,Ewallet,79,high
+B,Mandalay,Member,Female,No,No,Yes,No,No,No,23,7,19,180,Ewallet,161,medium
+A,Yangon,Normal,Male,No,No,No,No,No,Yes,23,1,17,40,Cash,23,medium
+A,Yangon,Member,Male,No,No,No,No,No,Yes,35,5,12,187,Ewallet,175,medium
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,43,6,20,278,Credit card,258,medium
+C,Naypyitaw,Normal,Male,No,Yes,No,No,No,No,70,10,16,716,Cash,700,medium
+C,Naypyitaw,Member,Female,No,No,No,Yes,No,No,42,6,16,268,Ewallet,252,medium
+A,Yangon,Normal,Male,No,No,No,No,No,Yes,40,3,10,130,Cash,120,high
+B,Mandalay,Normal,Male,No,Yes,No,No,No,No,43,1,13,56,Cash,43,medium
+A,Yangon,Member,Female,No,No,No,Yes,No,No,24,2,17,65,Credit card,48,medium
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,32,2,10,74,Credit card,64,high
+A,Yangon,Normal,Male,No,No,No,No,No,Yes,12,1,20,32,Cash,12,medium
+A,Yangon,Member,Male,No,Yes,No,No,No,No,54,3,16,178,Credit card,162,medium
+A,Yangon,Member,Male,No,Yes,No,No,No,No,18,1,11,29,Ewallet,18,high
+C,Naypyitaw,Normal,Female,No,No,No,Yes,No,No,20,1,20,40,Credit card,20,high
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,34,9,13,319,Cash,306,low
+A,Yangon,Normal,Female,No,No,No,No,No,Yes,75,6,13,463,Cash,450,low
+A,Yangon,Normal,Male,No,No,No,No,No,Yes,77,1,17,94,Cash,77,high
+A,Yangon,Normal,Female,No,No,No,No,No,Yes,78,2,15,171,Ewallet,156,high
+C,Naypyitaw,Normal,Male,Yes,No,No,No,No,No,19,7,16,149,Ewallet,133,medium
+B,Mandalay,Normal,Female,No,Yes,No,No,No,No,26,10,20,280,Ewallet,260,high
+A,Yangon,Member,Female,Yes,No,No,No,No,No,76,5,12,392,Ewallet,380,high
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,62,9,18,576,Cash,558,low
+B,Mandalay,Normal,Male,No,No,No,No,Yes,No,81,8,13,661,Cash,648,medium
+A,Yangon,Member,Female,No,No,Yes,No,No,No,29,4,18,134,Cash,116,high
+B,Mandalay,Normal,Male,Yes,No,No,No,No,No,34,6,15,219,Cash,204,medium
+A,Yangon,Member,Female,No,No,No,No,Yes,No,45,9,18,423,Cash,405,medium
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,51,1,11,62,Ewallet,51,medium
+A,Yangon,Member,Male,No,No,No,Yes,No,No,40,2,15,95,Ewallet,80,high
+B,Mandalay,Normal,Female,No,No,Yes,No,No,No,57,9,13,526,Credit card,513,low
+B,Mandalay,Normal,Female,No,No,Yes,No,No,No,58,7,12,418,Cash,406,medium
+A,Yangon,Member,Female,No,Yes,No,No,No,No,43,3,13,142,Cash,129,medium
+C,Naypyitaw,Member,Male,Yes,No,No,No,No,No,83,3,20,269,Ewallet,249,medium
+B,Mandalay,Member,Male,No,No,No,Yes,No,No,50,8,17,417,Credit card,400,medium
+C,Naypyitaw,Member,Female,Yes,No,No,No,No,No,34,2,15,83,Ewallet,68,medium
+C,Naypyitaw,Member,Male,No,No,No,No,Yes,No,31,3,11,104,Credit card,93,low
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,51,4,11,215,Ewallet,204,high
+A,Yangon,Member,Male,No,No,No,No,Yes,No,75,7,11,536,Credit card,525,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,14,1,14,28,Ewallet,14,high
+B,Mandalay,Member,Female,No,Yes,No,No,No,No,59,10,13,603,Cash,590,medium
+A,Yangon,Member,Male,No,No,No,Yes,No,No,43,6,10,268,Cash,258,high
+A,Yangon,Member,Male,No,No,Yes,No,No,No,67,4,17,285,Credit card,268,medium
+C,Naypyitaw,Normal,Male,No,No,Yes,No,No,No,55,8,13,453,Ewallet,440,medium
+C,Naypyitaw,Member,Male,No,No,No,No,No,Yes,69,1,20,89,Cash,69,low
+B,Mandalay,Member,Male,No,Yes,No,No,No,No,32,1,19,51,Cash,32,medium
+A,Yangon,Normal,Female,No,Yes,No,No,No,No,41,8,12,340,Credit card,328,medium
+B,Mandalay,Member,Female,No,Yes,No,No,No,No,79,8,15,647,Ewallet,632,high
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,64,10,11,651,Ewallet,640,medium
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,22,8,12,188,Credit card,176,high
+B,Mandalay,Member,Male,No,No,No,Yes,No,No,46,10,17,477,Credit card,460,high
+A,Yangon,Member,Female,No,No,Yes,No,No,No,24,6,15,159,Ewallet,144,high
+A,Yangon,Member,Female,No,No,No,No,Yes,No,60,2,19,139,Cash,120,high
+A,Yangon,Normal,Male,No,No,No,Yes,No,No,15,7,13,118,Cash,105,medium
+A,Yangon,Member,Male,No,No,No,No,Yes,No,10,1,13,23,Ewallet,10,medium
+A,Yangon,Member,Female,No,Yes,No,No,No,No,33,10,17,347,Ewallet,330,high
+C,Naypyitaw,Normal,Female,No,No,No,No,No,Yes,59,8,14,486,Ewallet,472,medium
+A,Yangon,Member,Male,No,No,No,Yes,No,No,89,10,10,900,Ewallet,890,medium
+C,Naypyitaw,Normal,Female,Yes,No,No,No,No,No,13,5,20,85,Cash,65,medium
+B,Mandalay,Normal,Female,No,Yes,No,No,No,No,83,8,14,678,Cash,664,high
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,26,5,16,146,Credit card,130,high
+B,Mandalay,Normal,Male,No,Yes,No,No,No,No,31,5,17,172,Cash,155,high
+B,Mandalay,Member,Male,No,Yes,No,No,No,No,38,6,20,248,Credit card,228,high
+B,Mandalay,Normal,Male,Yes,No,No,No,No,No,33,8,16,280,Credit card,264,low
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,25,7,12,187,Ewallet,175,medium
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,30,6,16,196,Cash,180,high
+C,Naypyitaw,Member,Male,Yes,No,No,No,No,No,18,7,10,136,Cash,126,medium
+A,Yangon,Member,Male,No,No,No,No,Yes,No,15,9,13,148,Ewallet,135,medium
+C,Naypyitaw,Member,Female,No,Yes,No,No,No,No,67,9,13,616,Credit card,603,high
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,37,4,10,158,Ewallet,148,medium
+A,Yangon,Member,Female,Yes,No,No,No,No,No,59,5,20,315,Credit card,295,low
+A,Yangon,Normal,Male,No,No,No,No,Yes,No,64,7,15,463,Cash,448,high
+C,Naypyitaw,Normal,Female,Yes,No,No,No,No,No,44,2,12,100,Ewallet,88,medium
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,27,4,17,125,Cash,108,high
+C,Naypyitaw,Normal,Male,Yes,No,No,No,No,No,27,10,12,282,Credit card,270,high
+B,Mandalay,Normal,Female,Yes,No,No,No,No,No,22,5,13,123,Credit card,110,medium
+A,Yangon,Member,Female,No,No,No,No,Yes,No,24,2,15,63,Ewallet,48,medium
+B,Mandalay,Normal,Female,No,No,Yes,No,No,No,79,10,17,807,Credit card,790,low
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,26,3,10,88,Credit card,78,medium
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,20,4,12,92,Ewallet,80,high
+A,Yangon,Normal,Female,No,No,Yes,No,No,No,88,8,15,719,Cash,704,medium
+A,Yangon,Member,Male,No,No,No,No,No,Yes,37,8,14,310,Ewallet,296,high
+A,Yangon,Member,Female,No,No,No,No,Yes,No,51,3,13,166,Cash,153,medium
+C,Naypyitaw,Normal,Female,No,Yes,No,No,No,No,67,6,12,414,Cash,402,low
+C,Naypyitaw,Member,Male,No,No,No,Yes,No,No,37,1,14,51,Credit card,37,high
+A,Yangon,Normal,Female,No,No,No,No,No,Yes,54,4,15,231,Cash,216,medium
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,31,3,13,106,Ewallet,93,high
+B,Mandalay,Member,Female,No,Yes,No,No,No,No,21,3,15,78,Ewallet,63,medium
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,21,9,11,200,Credit card,189,medium
+B,Mandalay,Normal,Female,No,No,Yes,No,No,No,47,6,10,292,Cash,282,medium
+C,Naypyitaw,Member,Female,No,No,Yes,No,No,No,10,2,11,31,Credit card,20,medium
+C,Naypyitaw,Normal,Female,No,No,No,Yes,No,No,88,7,18,634,Credit card,616,medium
+C,Naypyitaw,Member,Female,No,No,No,Yes,No,No,83,6,15,513,Ewallet,498,medium
+B,Mandalay,Normal,Female,No,Yes,No,No,No,No,69,4,13,289,Ewallet,276,high
+B,Mandalay,Member,Male,No,No,No,Yes,No,No,79,1,17,96,Credit card,79,medium
+A,Yangon,Member,Female,Yes,No,No,No,No,No,65,9,15,600,Credit card,585,medium
+B,Mandalay,Normal,Female,No,Yes,No,No,No,No,32,9,18,306,Credit card,288,high
+B,Mandalay,Normal,Male,No,No,No,Yes,No,No,18,2,20,56,Ewallet,36,medium
+B,Mandalay,Normal,Male,No,No,Yes,No,No,No,34,6,11,215,Ewallet,204,medium
+C,Naypyitaw,Member,Female,No,No,No,No,No,Yes,29,2,10,68,Credit card,58,high
+A,Yangon,Normal,Female,No,No,No,No,Yes,No,43,10,16,446,Ewallet,430,medium
+C,Naypyitaw,Normal,Male,Yes,No,No,No,No,No,85,7,17,612,Ewallet,595,high
+B,Mandalay,Normal,Female,No,No,Yes,No,No,No,42,6,11,263,Ewallet,252,high
+C,Naypyitaw,Member,Male,No,No,Yes,No,No,No,27,3,10,91,Ewallet,81,medium
+C,Naypyitaw,Normal,Female,Yes,No,No,No,No,No,49,7,15,358,Ewallet,343,high
+A,Yangon,Normal,Female,No,No,No,Yes,No,No,65,5,17,342,Cash,325,medium
+A,Yangon,Member,Female,Yes,No,No,No,No,No,89,3,13,280,Cash,267,low
+C,Naypyitaw,Normal,Female,No,No,No,No,Yes,No,25,6,18,168,Ewallet,150,medium
+A,Yangon,Normal,Male,No,No,No,No,Yes,No,73,4,13,305,Ewallet,292,medium
+C,Naypyitaw,Member,Male,No,No,No,No,No,Yes,58,9,18,540,Cash,522,medium
+A,Yangon,Normal,Female,No,No,Yes,No,No,No,70,10,16,716,Ewallet,700,medium
+A,Yangon,Normal,Male,Yes,No,No,No,No,No,37,5,17,202,Credit card,185,medium
+A,Yangon,Member,Male,Yes,No,No,No,No,No,86,7,16,618,Cash,602,low
+A,Yangon,Normal,Female,No,Yes,No,No,No,No,46,7,19,341,Credit card,322,medium
+C,Naypyitaw,Member,Male,No,Yes,No,No,No,No,26,2,13,65,Credit card,52,medium
+B,Mandalay,Member,Male,No,No,No,No,No,Yes,53,1,11,64,Ewallet,53,medium
+C,Naypyitaw,Member,Male,No,No,Yes,No,No,No,50,5,11,261,Ewallet,250,high
+B,Mandalay,Normal,Female,No,No,No,No,Yes,No,90,8,16,736,Ewallet,720,high
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,70,3,20,230,Ewallet,210,high
+B,Mandalay,Member,Female,No,No,Yes,No,No,No,36,3,16,124,Ewallet,108,medium
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,78,4,16,328,Ewallet,312,high
+C,Naypyitaw,Member,Female,No,No,No,No,Yes,No,44,4,13,189,Cash,176,high
+B,Mandalay,Member,Male,No,No,Yes,No,No,No,33,6,10,208,Cash,198,medium
+A,Yangon,Normal,Female,No,No,No,No,No,Yes,34,7,17,255,Cash,238,medium
+C,Naypyitaw,Member,Male,No,No,No,No,Yes,No,89,9,20,821,Cash,801,medium
+B,Mandalay,Normal,Male,No,Yes,No,No,No,No,53,6,15,333,Cash,318,medium
+C,Naypyitaw,Normal,Female,No,No,Yes,No,No,No,62,10,11,631,Cash,620,high
+A,Yangon,Member,Female,No,No,No,No,Yes,No,82,9,20,758,Cash,738,high
+C,Naypyitaw,Member,Male,No,No,No,No,No,Yes,41,1,12,53,Cash,41,high
+A,Yangon,Member,Male,No,Yes,No,No,No,No,40,2,10,90,Cash,80,high
+A,Yangon,Normal,Female,No,No,No,No,No,Yes,43,1,12,55,Credit card,43,medium
+C,Naypyitaw,Member,Male,No,Yes,No,No,No,No,11,3,14,47,Cash,33,medium
+B,Mandalay,Normal,Male,No,No,No,No,Yes,No,67,2,17,151,Credit card,134,medium
+B,Mandalay,Normal,Female,No,Yes,No,No,No,No,78,2,19,175,Credit card,156,medium
+A,Yangon,Normal,Female,No,No,Yes,No,No,No,17,9,17,170,Ewallet,153,medium
+A,Yangon,Member,Male,No,No,Yes,No,No,No,56,3,17,185,Credit card,168,high
+A,Yangon,Normal,Female,Yes,No,No,No,No,No,54,3,14,176,Cash,162,high
+B,Mandalay,Member,Female,No,Yes,No,No,No,No,62,5,20,330,Credit card,310,high
+B,Mandalay,Member,Female,No,No,No,No,Yes,No,44,10,16,456,Credit card,440,high
+B,Mandalay,Member,Male,No,No,Yes,No,No,No,28,7,17,213,Ewallet,196,medium
+B,Mandalay,Normal,Male,No,Yes,No,No,No,No,88,7,16,632,Cash,616,medium
+A,Yangon,Normal,Male,No,No,Yes,No,No,No,38,3,19,133,Cash,114,medium
+C,Naypyitaw,Normal,Male,No,No,No,No,No,Yes,31,2,10,72,Cash,62,high
+B,Mandalay,Member,Male,No,No,No,No,No,Yes,72,2,10,154,Credit card,144,medium
+A,Yangon,Normal,Female,No,No,No,No,Yes,No,38,4,12,164,Cash,152,high
+B,Mandalay,Member,Male,No,No,No,No,Yes,No,58,6,16,364,Ewallet,348,medium
+B,Mandalay,Normal,Female,No,Yes,No,No,No,No,53,1,13,66,Credit card,53,medium
+B,Mandalay,Normal,Female,No,No,No,No,Yes,No,43,1,13,56,Credit card,43,medium
+C,Naypyitaw,Member,Male,No,No,No,No,Yes,No,77,4,19,327,Cash,308,high
+A,Yangon,Normal,Male,Yes,No,No,No,No,No,75,4,17,317,Cash,300,high
+A,Yangon,Member,Female,No,No,No,Yes,No,No,22,9,19,217,Ewallet,198,medium
+C,Naypyitaw,Normal,Male,Yes,No,No,No,No,No,11,7,12,89,Cash,77,medium
+C,Naypyitaw,Normal,Male,No,Yes,No,No,No,No,87,7,19,628,Cash,609,medium
+B,Mandalay,Normal,Female,No,No,No,No,No,Yes,62,5,13,323,Ewallet,310,high
+B,Mandalay,Normal,Female,Yes,No,No,No,No,No,10,2,17,37,Ewallet,20,low
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,78,8,11,635,Credit card,624,medium
+C,Naypyitaw,Member,Male,No,Yes,No,No,No,No,32,10,15,335,Ewallet,320,low
+B,Mandalay,Member,Male,Yes,No,No,No,No,No,74,8,11,603,Credit card,592,high
+A,Yangon,Normal,Female,No,No,No,No,Yes,No,52,5,15,275,Credit card,260,medium
+B,Mandalay,Normal,Female,No,No,No,Yes,No,No,23,10,15,245,Ewallet,230,medium
+A,Yangon,Normal,Male,No,Yes,No,No,No,No,15,2,10,40,Ewallet,30,high
+B,Mandalay,Normal,Male,No,No,No,No,No,Yes,42,10,12,432,Ewallet,420,medium
+C,Naypyitaw,Member,Female,No,Yes,No,No,No,No,32,1,12,44,Ewallet,32,medium
+C,Naypyitaw,Normal,Male,Yes,No,No,No,No,No,39,1,13,52,Ewallet,39,medium
+B,Mandalay,Normal,Female,No,No,Yes,No,No,No,72,10,13,733,Ewallet,720,low
+A,Yangon,Member,Male,No,No,No,No,Yes,No,88,1,20,108,Cash,88,high
+A,Yangon,Normal,Male,No,No,Yes,No,No,No,77,1,11,88,Cash,77,low
+A,Yangon,Member,Female,No,No,No,No,No,Yes,59,7,10,423,Cash,413,medium
